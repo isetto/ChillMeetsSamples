@@ -53,6 +53,7 @@ Notifications, inviting friends for an activity, group chat for participants of 
 
 Stack:
 Frontend: Android, Kotlin, Retrofit2, RxJava, picasso
+
 Backend: At the begining php, now it's being rewrtitten in Node.js, Postgresql
 
 What is missing: patterns like MVVM, MVP
